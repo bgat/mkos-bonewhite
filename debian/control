@@ -9,6 +9,6 @@ Vcs-Browser: https://github.com/bgat/mkos-bonewhite.git
 
 Package: mkos-bonewhite
 Architecture: all
-Depends: multistrap, util-linux, guestfish, bc, ${misc:Depends}
+Depends: mkos-mlo-common, ${misc:Depends}
 Description: Composes filesystem images for Beaglebone White
  This package is part of Pragmatux http://pragmatux.org

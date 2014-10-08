@@ -1,3 +1,2 @@
 mkos-bonewhite usr/bin
 default.mstrap preferences usr/share/mkos-bonewhite
-README-mkcard.sh usr/share/mkos-bonewhite
